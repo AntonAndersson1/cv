@@ -1,0 +1,24 @@
+#hem{    
+    color: blue;
+    }
+table{
+border: 10px solid black; 
+min-width: 100%;
+min-height: 20%;
+min-height: 100px;
+background-color: #B610EF;
+}
+body{
+background-color: #4610ef;
+}
+h2{
+margin: 5% 40%;
+padding: 20px 50px; 
+text-align: center;
+display: inline-block;
+background-color: lightblue;
+}
+p{
+margin: 1px 40%;
+text-align: center;
+}

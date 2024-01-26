@@ -1,0 +1,22 @@
+#överst{
+    border: 10px solid black; 
+    min-width: 100%;
+    min-height: 20%;
+    min-height: 100px;
+    background-color: #B610EF;
+    }
+body{
+    background-color: pink;
+}
+#skola{
+width: 100px;
+padding: 100px;
+}
+#läst{
+width: 100px;
+padding: 100px;
+}
+#läser{
+width: 150px;
+padding: 100px;
+}
